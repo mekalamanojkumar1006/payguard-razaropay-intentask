@@ -1,1 +1,0 @@
-# PayGuard backend package

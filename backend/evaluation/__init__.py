@@ -1,1 +1,0 @@
-# PayGuard evaluation package
